@@ -1,0 +1,46 @@
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD Project.csproj.AssemblyReference.cache
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\Applicationiens.frmApplicationsTypes.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Applicationiens.frmUpdateApplicationTypes.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Applicationiens.Datain_Licenses.frmDetainLicense.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Applicationiens.Datain_Licenses.frmListDetainedLicenses.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Applicationiens.Datain_Licenses.frmReleaseDetainLicense.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.Local_License.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Applicationiens.Renew.frmRenewLicense.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Applications.Replesments.frmReplaceLostOrDamage.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.frmShowPersonLicenseHistory.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.People.frmFindPerson.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Applicationiens.Test_Type.frmTestTypes.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Applicationiens.Test_Type.frmUpdateTestTypes.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.Local_License.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.Local_License.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.ctrlTakeTest.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.ctrlScheduleTest.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Drivers.frmDrivers.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.New_International_License.frmNewnternationalLicenseApplication.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.New_International_License.frmListOfInternationalLicenseApplications.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.Controls.ctrlDriverLicenses.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.International_Licenses.Controls.ctrlDriverInternationalInfo.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.New_International_License.frmShowInternationalLicense.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Liceses.New_Local_License.frmAddNewLocalLicense.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.New_Local_License.frmIssueNewLocalLicense.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.New_Local_License.frmListLocalDrivingLicenseApplications.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Licenese.New_Local_License.frmShowLocalLicense.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.frmAddOrEditPerson.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.frmPeople.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.frmMain.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Peoplee.frmShowDatiles.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Properties.Resources.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Tests.frmScheduleTest.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Tests.frmTakeTest.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Tests.frmListTestAppointment.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.ctrlPersonCardWithFilter.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.ctrlPersonCardInfoo.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Users.ctrlUserCard.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Users.frmAddnewUser.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Users.frmListUsers.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Users.frmLogin.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Users.frmChangePassword.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD_Project.Users.frmShowDatilesUser.resources
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD Project.csproj.GenerateResource.cache
+C:\Users\abduilaziz\source\repos\DVlD Project\obj\Release\DVlD Project.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactsDataAccessLayer\bin\Release\ContactsDataAccessLayer.dll
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactsDataAccessLayer\bin\Release\ContactsDataAccessLayer.pdb
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactsDataAccessLayer\obj\Release\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactsDataAccessLayer\obj\Release\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactsDataAccessLayer\obj\Release\ContactsDataAccessLayer.dll
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactsDataAccessLayer\obj\Release\ContactsDataAccessLayer.pdb

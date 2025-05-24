@@ -1,0 +1,9 @@
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\bin\Debug\ContactBusinessLayer.dll
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\obj\Debug\DVID Business Layer.csproj.AssemblyReference.cache
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\obj\Debug\DVID Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\obj\Debug\DVID Bus.0E3A70F2.Up2Date
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.dll
+C:\Users\abduilaziz\source\repos\DVlD Project\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.pdb

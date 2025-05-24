@@ -1,0 +1,9 @@
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\bin\Release\ContactBusinessLayer.dll
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\bin\Release\ContactBusinessLayer.pdb
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\bin\Release\ContactsDataAccessLayer.dll
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\bin\Release\ContactsDataAccessLayer.pdb
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\obj\Release\ContactsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\obj\Release\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\obj\Release\Contacts.DFB66D76.Up2Date
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\obj\Release\ContactBusinessLayer.dll
+C:\Users\abduilaziz\Downloads\ContactsSolution (2)\ContactBusinessLayer\obj\Release\ContactBusinessLayer.pdb
